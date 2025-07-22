@@ -1,2 +1,2 @@
 # odin-recipes
-leraning html.
+leraning html and making my website.
